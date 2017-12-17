@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+  <script src="/bundle.js"></script>
+  <script>
+    var canvas = document.createElement('canvas');
+    var ctx = canvas.getContext('2d');
+    canvas.width = 200;
+    canvas.height = 200;
+    ctx.font = '30px Impact'
+    ctx.rotate(0.1)
+    ctx.fillText('Awesome!', 50, 100)
+    document.body.appendChild(canvas);
+    document.body.appendChild(imageCropper.crop(canvas));
+  </script>        
+</body>
+</html>
+
