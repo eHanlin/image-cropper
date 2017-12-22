@@ -13,7 +13,7 @@ module.exports = {
   output: {
     path: path.join(__dirname, 'build'),
     libraryTarget:'umd',
-    library:'imageCropper',
+    library:'imgUtils',
     filename: 'bundle.js'
   },  
   externals: {
