@@ -1,5 +1,5 @@
 {
-  "name":"image-cropper",
+  "name":"img-utils",
   "version":"1.0.0",
   "author": "Sparrow.jang",
   "main": "build/bundle.js",

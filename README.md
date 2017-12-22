@@ -1,3 +1,3 @@
-image-cropper
+img-utils
 =================
 
