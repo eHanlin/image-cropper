@@ -8,6 +8,10 @@
     "build": "NODE_ENV='production' webpack -p --devtool source-map",
     "dev": "webpack-dev-server --devtool eval --progress --colors --hot --content-base . --host 0.0.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eHanlin/img-utils"
+  },
   "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.26.0",
