@@ -2,6 +2,7 @@
   "name": "img-utils",
   "version": "1.0.1",
   "author": "Sparrow.jang",
+  "description": "The img-utils is utility image library. It offers cropping feature.",
   "main": "build/bundle.js",
   "scripts": {
     "watch": "webpack --progress --colors --watch",

@@ -1,6 +1,7 @@
 {
   "name":"img-utils",
   "version":"1.0.1",
+  "description": "The img-utils is utility image library. It offers cropping feature.",
   "authors": [
     "Sparrow.jang <sparrow.jang@gmail.com>"
   ],
