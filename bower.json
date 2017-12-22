@@ -1,0 +1,16 @@
+{
+  "name":"image-cropper",
+  "version":"1.0.0",
+  "authors": [
+    "Sparrow.jang <sparrow.jang@gmail.com>"
+  ],
+  "keywords": [
+    "crop",
+    "canvas"
+  ],
+  "main": [
+    "build/bundle.js"
+  ],
+  "dependencies": {
+  }
+}
